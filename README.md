@@ -1,5 +1,5 @@
 # HCVA HashiCorp Certified: Consul Associate (002) — Study Notes
-HashiCorp Networking Automation Certification
+## HashiCorp Networking Automation Certification
 
 [Exam objectives](https://www.hashicorp.com/certification/consult-associate|)
 
