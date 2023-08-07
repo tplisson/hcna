@@ -10,7 +10,7 @@ HashiCorp Networking Automation Certification
 <!-- [Practical Demos](https://terraformguru.com/terraform-certification-using-aws-cloud/) -->
 
 <p align="center">
-  <img src="images/hcvna-badge.webp" {:height="25%" width="25%"}>
+  <img src="images/hcna-badge.webp" {:height="25%" width="25%"}>
 </p>
 <br/>
   
